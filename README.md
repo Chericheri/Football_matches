@@ -11,7 +11,7 @@ In this project, I scrape and predict the winner of football matches in the Engl
 
    # CODE
    
-scraping.ipynb.
+scraping Football matches.ipynb.
 - a Jupyter notebook that scrapes our data. This is the first step of this project
 
 predictions.ipynb.
